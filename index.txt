@@ -1,1 +1,1 @@
-"Cap¡tol 1: Introducci¢ a Git \nCap¡tol 2: Flux de treball b…sic \nCap¡tol 3: Repositoris remots" 
+Capítol 1: Introducció a Git Capítol \n2: Flux de treball bàsic \nCapítol 3: Gestió de branques \nCapítol 4: Repositoris remots
